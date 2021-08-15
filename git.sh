@@ -1,8 +1,8 @@
 #!/bin/bash
 
-cd /opt/cssOptimizr/
+cd /opt/chatO/
 git add *
 git commit -m "initial version"
-git push origin master
+git push origin main
 
 exit 0
